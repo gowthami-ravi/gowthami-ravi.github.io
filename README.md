@@ -29,7 +29,9 @@ The TEXT, WEEKDAY, and MONTH functions were used to extract key insights from tr
 **Pivot Charts & Tables:**
 
 • Created four pivot charts to display the number of transactions by day of the week and hour of the day, revealing peak sales periods (mornings and specific weekdays).
+
 • Another pivot chart showed the number of transactions by product category, highlighting coffee as the top-performing category.
+
 • Developed a pivot table to analyze the number of transactions and revenue by product type, focusing on the top 15 products by transaction volume to understand which items drive the most sales.
 
 **Dashboard Creation:**
