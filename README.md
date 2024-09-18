@@ -19,5 +19,34 @@
 - Led and trained 40+ employees, increasing productivity by 15% using gamification techniques like bingo for sales behaviors, with rewards such as gift cards and recognition
 
 ## Projects
+### Coffee Sales Performance Dashboard
+In this analysis, I examined transactions from a coffee shop chain, focusing on key areas using various Excel functions and data visualization techniques:
+
+**Data Transformation:**
+The TEXT, WEEKDAY, and MONTH functions were used to extract key insights from transaction dates and times. These functions allowed us to categorize transactions by day of the week, month, and time of day for more detailed analysis.
+
+**Pivot Charts & Tables:**
+• Created four pivot charts to display the number of transactions by day of the week and hour of the day, revealing peak sales periods (mornings and specific weekdays).
+
+• Another pivot chart showed the number of transactions by product category, highlighting coffee as the top-performing category.
+
+• Developed a pivot table to analyze the number of transactions and revenue by product type, focusing on the top 15 products by transaction volume to understand which items drive the most sales.
+
+**Dashboard Creation:**
+The charts and pivot tables were assembled into a cohesive dashboard layout, providing an at-a-glance overview of key metrics. A slicer for store location was added and connected to all pivot tables, enabling dynamic filtering to compare performance across different store locations.
+
+In this analysis, I examined transactions from a coffee shop chain, focusing on several key areas:
+
+**Sales by Product Category:**
+Coffee was the top-selling product category, followed by tea and hot chocolate. Within coffee, the “Gourmet brewed coffee” products significantly outperformed other types, suggesting a customer preference for premium options.
+
+**Peak Sales Hours:**
+Analyzing transaction times revealed that peak sales occurred during morning hours (7 AM - 9 AM). This suggests the need to prioritize staffing and inventory during these hours to meet high demand.
+
+**Store Performance:**
+The “Lower Manhattan” store location consistently had higher sales. This insight can help in optimizing stock and promotions tailored to this store’s customer base.
+
+**Price Sensitivity:**
+Products with higher unit prices, such as specialty drinks, accounted for a small portion of overall sales but contributed disproportionately to revenue. This finding highlights the opportunity to promote premium offerings to increase profitability.
 
 
