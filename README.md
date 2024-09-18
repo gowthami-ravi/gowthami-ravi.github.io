@@ -2,9 +2,12 @@
 
 #### Technical Skills: Excel, SQL, Tableau
 ## Education
-- Research Analyst, Graduate Certificate | Humber Polytechnic (_Jan 2025 - current_)
-- Project Management, Certificate | School of Continuing Studies, University of Toronto (_Sept 2020 - Apr 2021_)
-- Psychology & Health Policy, Honors Bachelor of Science | University of Toronto (_Sept 2014 - Aug 2018_)
+- RESEARCH ANALYST GRADUATE CERTIFICATE 
+  Humber Polytechnic – Toronto, ON 	Jan 2025 – current
+- PROJECT MANAGEMENT CERTIFICATE
+  University of Toronto of Continuing Studies – Toronto, ON 	Sept 2020 – Apr 2021
+- HONORS BSc. 
+  University of Toronto – Toronto, ON 	Sept 2014 – Aug 2018
 
 ## Work Experience
 **Sales Development Representative at Vena Solutions (_Aug 2022 - Jan 2024_)**
