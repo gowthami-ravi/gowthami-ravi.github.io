@@ -4,12 +4,15 @@
 ## Education
 #### Research Analyst Graduate Certificate
 *Humber Polytechnic – Toronto, ON*
+
 Jan 2025 – current
 #### Project Management Certificate
 *University of Toronto of Continuing Studies - Toronto, ON*
+
 Sept 2020 – Apr 2021
 #### Honors Bachelor of Science
 *University of Toronto – Toronto, ON*
+
 Sept 2014 – Aug 2018
 
 ## Work Experience
