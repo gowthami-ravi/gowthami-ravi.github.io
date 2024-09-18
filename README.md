@@ -23,6 +23,7 @@
 In this analysis, I examined transactions from a coffee shop chain, focusing on key areas using various Excel functions and data visualization techniques:
 
 **Data Transformation:**
+
 The TEXT, WEEKDAY, and MONTH functions were used to extract key insights from transaction dates and times. These functions allowed us to categorize transactions by day of the week, month, and time of day for more detailed analysis.
 
 **Pivot Charts & Tables:**
