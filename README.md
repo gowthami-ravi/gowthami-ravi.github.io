@@ -12,7 +12,7 @@
   University of Toronto of Continuing Studies - Toronto, ON
 
   Sept 2020 – Apr 2021
-- Honours BSc.
+- Honors BSc.
   
   University of Toronto – Toronto, ON
   
